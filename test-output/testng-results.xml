@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-13T15:58:16 GST" name="Default suite" finished-at="2022-11-13T15:58:21 GST" duration-ms="4771">
+    <groups>
+    </groups>
+    <test started-at="2022-11-13T15:58:16 GST" name="Default test" finished-at="2022-11-13T15:58:21 GST" duration-ms="4771">
+      <class name="testscenario.Loginactions">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:16 GST" name="launchbrowser" finished-at="2022-11-13T15:58:20 GST" duration-ms="3388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="invalidCredentials()[pri:1, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:20 GST" name="invalidCredentials" finished-at="2022-11-13T15:58:20 GST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method signature="loginValidunameInvalidpwd()[pri:2, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:20 GST" name="loginValidunameInvalidpwd" finished-at="2022-11-13T15:58:20 GST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidunameInvalidpwd -->
+        <test-method signature="loginInvalidusernameValidpwd()[pri:3, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:20 GST" name="loginInvalidusernameValidpwd" finished-at="2022-11-13T15:58:20 GST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInvalidusernameValidpwd -->
+        <test-method signature="loginValidusernameValidpwd()[pri:4, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:20 GST" name="loginValidusernameValidpwd" finished-at="2022-11-13T15:58:21 GST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidusernameValidpwd -->
+        <test-method signature="addingToCart()[pri:5, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:21 GST" name="addingToCart" finished-at="2022-11-13T15:58:21 GST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingToCart -->
+        <test-method is-config="true" signature="discontinueBrowser()[pri:0, instance:testscenario.Loginactions@42a48628]" started-at="2022-11-13T15:58:21 GST" name="discontinueBrowser" finished-at="2022-11-13T15:58:21 GST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- discontinueBrowser -->
+      </class> <!-- testscenario.Loginactions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
